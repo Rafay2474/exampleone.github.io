@@ -1,0 +1,73 @@
+
+---Downloaded files---
+The import files for: Home 1 were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://www.devsnews.com/wp/markite
+Data file = /var/www/devsnews.com/wp/markite/wp-content/themes/markite/sample-data/contents-demo.xml
+Widget file = /var/www/devsnews.com/wp/markite/wp-content/themes/markite/sample-data/widget-settings.json
+Customizer file = /var/www/devsnews.com/wp/markite/wp-content/themes/markite/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Markite Sidebar Posts Image - Recent News - Imported
+Categories - Categories - Imported
+Tag Cloud - Tags - Imported
+Custom HTML - No Title - Imported
+
+Product Sidebar : 
+
+Text - No Title - Imported
+Custom HTML - No Title - Imported
+
+Footer 1 : 
+
+Custom HTML - No Title - Imported
+
+Footer 2 : 
+
+Navigation Menu - Products - Imported
+
+Footer 3 : 
+
+Navigation Menu - Resources - Imported
+
+Footer 4 : 
+
+Custom HTML - Newsletter - Imported
+
+Footer Style 2: 1 : 
+
+Custom HTML - Follow our Socials - Imported
+
+Footer Style 2: 2 : 
+
+Navigation Menu - Products - Imported
+
+Footer Style 2: 3 : 
+
+Navigation Menu - Resources - Imported
+
+Footer Style 2: 4 : 
+
+Navigation Menu - Support - Imported
+
+Footer Style 2: 5 : 
+
+Navigation Menu - Community - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

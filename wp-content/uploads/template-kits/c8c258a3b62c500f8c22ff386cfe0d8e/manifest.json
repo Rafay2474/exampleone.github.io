@@ -1,0 +1,1111 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Artion",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Projects",
+            "screenshot": "screenshots\/projects.jpg",
+            "source": "templates\/projects.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/template-kit\/projects\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Project Detail",
+            "screenshot": "screenshots\/project-detail.jpg",
+            "source": "templates\/project-detail.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/template-kit\/project-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Clients",
+            "screenshot": "screenshots\/clients.jpg",
+            "source": "templates\/clients.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/template-kit\/clients\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder \u2013 Header (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-header-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-header-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/?elementor_library=theme-builder-header-elementor-pro",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder \u2013 Footer (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-footer-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-footer-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/?elementor_library=theme-builder-footer-elementor-pro",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.5.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "business-meeting-and-teamwork-by-business-people-2021-08-27-08-45-45-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/business-meeting-and-teamwork-by-business-people-2021-08-27-08-45-45-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 267329,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-meeting-and-teamwork-by-business-people-DD9Q8T2"
+        },
+        {
+            "filename": "woman-sitting-at-table-writing-in-notebook-2021-12-09-17-16-15-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/woman-sitting-at-table-writing-in-notebook-2021-12-09-17-16-15-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 167003,
+            "dimensions": [
+                401,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-sitting-at-table-writing-in-notebook-2VE97D2"
+        },
+        {
+            "filename": "Icon-Writing-1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/Icon-Writing-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                }
+            ],
+            "filesize": 1331,
+            "dimensions": [
+                113,
+                101
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-copywriting-line-icons-S26U52"
+        },
+        {
+            "filename": "Icon-Writing-3.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/Icon-Writing-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                }
+            ],
+            "filesize": 1199,
+            "dimensions": [
+                101,
+                101
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-copywriting-line-icons-S26U52"
+        },
+        {
+            "filename": "Icon-Writing-2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/Icon-Writing-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                }
+            ],
+            "filesize": 1163,
+            "dimensions": [
+                101,
+                101
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-copywriting-line-icons-S26U52"
+        },
+        {
+            "filename": "Icon-Writing-4.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/Icon-Writing-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                }
+            ],
+            "filesize": 1154,
+            "dimensions": [
+                106,
+                101
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-copywriting-line-icons-S26U52"
+        },
+        {
+            "filename": "businesswoman-with-notepad-at-office-2021-08-27-14-34-06-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/businesswoman-with-notepad-at-office-2021-08-27-14-34-06-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 94474,
+            "dimensions": [
+                280,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businesswoman-with-notepad-at-office-GWCMER9"
+        },
+        {
+            "filename": "african-man-standing-at-office-2021-08-29-15-33-10-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/african-man-standing-at-office-2021-08-29-15-33-10-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 89849,
+            "dimensions": [
+                280,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/african-man-standing-at-office-X839XSC"
+        },
+        {
+            "filename": "businesswoman-standing-at-office-2021-09-03-14-17-01-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/businesswoman-standing-at-office-2021-09-03-14-17-01-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 115452,
+            "dimensions": [
+                280,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businesswoman-standing-at-office-36FZEM9"
+        },
+        {
+            "filename": "smart-businessman-at-work-professional-business-m-2021-11-03-22-11-05-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/smart-businessman-at-work-professional-business-m-2021-11-03-22-11-05-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 107034,
+            "dimensions": [
+                280,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smart-businessman-at-work-professional-business-ma-ZVYU98L"
+        },
+        {
+            "filename": "team-job-young-team-working-with-new-startup-proj-2021-12-09-14-44-18-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2022\/01\/team-job-young-team-working-with-new-startup-proj-2021-12-09-14-44-18-utc-800x512.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 99188,
+            "dimensions": [
+                1001,
+                641
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-job-young-team-working-with-new-startup-proje-LLRAFSA"
+        },
+        {
+            "filename": "close-up-woman-hands-writing-in-notebook-2021-09-02-12-36-08-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2022\/01\/close-up-woman-hands-writing-in-notebook-2021-09-02-12-36-08-utc-800x512.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 60148,
+            "dimensions": [
+                1001,
+                641
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-woman-hands-writing-in-notebook-658VXBW"
+        },
+        {
+            "filename": "student-writing-paper-at-night-2021-11-05-00-01-35-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2022\/01\/student-writing-paper-at-night-2021-11-05-00-01-35-utc-800x512.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 53913,
+            "dimensions": [
+                1001,
+                641
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/student-writing-paper-at-night-HWJTY7B"
+        },
+        {
+            "filename": "selective-focus-of-attentive-young-woman-writing-u-2021-08-30-02-15-46-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2022\/01\/selective-focus-of-attentive-young-woman-writing-u-2021-08-30-02-15-46-utc-800x512.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 85835,
+            "dimensions": [
+                1001,
+                641
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/selective-focus-of-attentive-young-woman-writing-u-8WGKMFM"
+        },
+        {
+            "filename": "team-of-cheerfully-people-in-open-space-office-2021-09-03-15-38-30-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2022\/01\/team-of-cheerfully-people-in-open-space-office-2021-09-03-15-38-30-utc-800x512.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 72905,
+            "dimensions": [
+                1001,
+                641
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-cheerfully-people-in-open-space-office-925MYMZ"
+        },
+        {
+            "filename": "woman-writing-down-notes-on-agenda-2021-08-29-23-41-24-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2022\/01\/woman-writing-down-notes-on-agenda-2021-08-29-23-41-24-utc-800x512.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 90976,
+            "dimensions": [
+                1001,
+                641
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-writing-down-notes-on-agenda-LB6X7BB"
+        },
+        {
+            "filename": "Bg1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/Bg1-800x333.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 17906,
+            "dimensions": [
+                1441,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Icon-Writing-5.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/Icon-Writing-5.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1033,
+            "dimensions": [
+                101,
+                101
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-copywriting-line-icons-S26U52"
+        },
+        {
+            "filename": "Icon-Writing-6.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/Icon-Writing-6.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1468,
+            "dimensions": [
+                102,
+                101
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-copywriting-line-icons-S26U52"
+        },
+        {
+            "filename": "Icon-Writing-7.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/Icon-Writing-7.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1143,
+            "dimensions": [
+                101,
+                101
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-copywriting-line-icons-S26U52"
+        },
+        {
+            "filename": "Icon-Writing-8.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/Icon-Writing-8.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1706,
+            "dimensions": [
+                101,
+                101
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-copywriting-line-icons-S26U52"
+        },
+        {
+            "filename": "Icon-Writing-9.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/Icon-Writing-9.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1011,
+            "dimensions": [
+                101,
+                101
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-copywriting-line-icons-S26U52"
+        },
+        {
+            "filename": "agency-coworkers-discussing-new-project-on-laptop-2021-08-27-09-45-01-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2022\/01\/agency-coworkers-discussing-new-project-on-laptop-2021-08-27-09-45-01-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 137674,
+            "dimensions": [
+                1201,
+                802
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/agency-coworkers-discussing-new-project-on-laptop-CZXJNH4"
+        },
+        {
+            "filename": "young-smiling-man-with-a-laptop-in-his-hands-2021-09-04-07-08-07-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/young-smiling-man-with-a-laptop-in-his-hands-2021-09-04-07-08-07-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 79508,
+            "dimensions": [
+                280,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-smiling-man-with-a-laptop-in-his-hands-9XXUTQU"
+        },
+        {
+            "filename": "smiling-businesswoman-sitting-on-office-stairs-sen-2021-08-26-17-26-24-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/smiling-businesswoman-sitting-on-office-stairs-sen-2021-08-26-17-26-24-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 91911,
+            "dimensions": [
+                280,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-businesswoman-sitting-on-office-stairs-sen-PU3CBVA"
+        },
+        {
+            "filename": "comfortable-office-and-woman-indoors-it-with-a-lap-2021-09-02-20-01-17-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/comfortable-office-and-woman-indoors-it-with-a-lap-2021-09-02-20-01-17-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 132586,
+            "dimensions": [
+                280,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/comfortable-office-and-woman-indoors-it-with-a-lap-C9W29KL"
+        },
+        {
+            "filename": "young-cross-armed-businessman-in-casualwear-standi-2021-09-24-03-22-20-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/young-cross-armed-businessman-in-casualwear-standi-2021-09-24-03-22-20-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 100278,
+            "dimensions": [
+                280,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-young-cross-armed-businessman-in-casualwear--9GR8FNJ"
+        },
+        {
+            "filename": "businessman-lawyer-consulting-client-about-contrac-2021-09-04-08-15-40-utc-1-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2022\/01\/businessman-lawyer-consulting-client-about-contrac-2021-09-04-08-15-40-utc-1-1-800x512.jpg",
+            "templates": [
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                }
+            ],
+            "filesize": 57940,
+            "dimensions": [
+                1000,
+                640
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businessman-lawyer-consulting-client-about-contrac-BPKLNA4"
+        },
+        {
+            "filename": "Logo-Ipsum-1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/Logo-Ipsum-1.png",
+            "templates": [
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                }
+            ],
+            "filesize": 793,
+            "dimensions": [
+                127,
+                30
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo-Ipsum-2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/Logo-Ipsum-2.png",
+            "templates": [
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                }
+            ],
+            "filesize": 766,
+            "dimensions": [
+                130,
+                30
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo-Ipsum-3.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/Logo-Ipsum-3.png",
+            "templates": [
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                }
+            ],
+            "filesize": 877,
+            "dimensions": [
+                119,
+                28
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo-Ipsum-4.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/Logo-Ipsum-4.png",
+            "templates": [
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                }
+            ],
+            "filesize": 838,
+            "dimensions": [
+                131,
+                27
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "business-team-2021-09-01-16-31-38-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/business-team-2021-09-01-16-31-38-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 235298,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-team-T5QVEKA"
+        },
+        {
+            "filename": "man-taking-a-break-working-in-design-studio-2021-08-26-16-12-45-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2021\/12\/man-taking-a-break-working-in-design-studio-2021-08-26-16-12-45-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 212175,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-taking-a-break-working-in-design-studio-PJ73LCF"
+        },
+        {
+            "filename": "Artion-Logo.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/contentkit\/wp-content\/uploads\/sites\/51\/2022\/01\/Artion-Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/theme-builder-header-elementor-pro-.json",
+                    "name": "Theme Builder \u2013 Header (Elementor Pro)"
+                },
+                {
+                    "source": "templates\/theme-builder-footer-elementor-pro-.json",
+                    "name": "Theme Builder \u2013 Footer (Elementor Pro)"
+                }
+            ],
+            "filesize": 1451,
+            "dimensions": [
+                207,
+                49
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

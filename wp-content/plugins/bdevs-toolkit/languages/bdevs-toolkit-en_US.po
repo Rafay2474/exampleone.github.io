@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bdevs Toolkit\n"
+"POT-Creation-Date: 2021-11-21 12:54+0600\n"
+"PO-Revision-Date: 2021-11-21 12:54+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: bdevs-toolkit.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: bdevs-toolkit.php:148
+msgid "Search"
+msgstr "Search"
+
+#: inc/class-ocdi-importer.php:20
+msgid "Home 1"
+msgstr "Home 1"
+
+#: inc/class-ocdi-importer.php:21
+msgid "home"
+msgstr "home"
+
+#: inc/class-ocdi-importer.php:26
+msgid "Home 2"
+msgstr "Home 2"
+
+#: inc/class-ocdi-importer.php:27
+msgid "home-02"
+msgstr "home-02"
+
+#: inc/class-ocdi-importer.php:32
+msgid "Home 3"
+msgstr "Home 3"
+
+#: inc/class-ocdi-importer.php:33
+msgid "home-03"
+msgstr "home-03"
+
+#: inc/class-ocdi-importer.php:58
+msgid ""
+"After you import this demo, you will have to setup the slider separately."
+msgstr ""
+"After you import this demo, you will have to setup the slider separately."
+
+#: inc/custom-post.php:45
+msgid "Add New"
+msgstr "Add New"
+
+#: inc/custom-post.php:46 inc/custom-post.php:114
+#, php-format
+msgid "Add New %s"
+msgstr "Add New %s"
+
+#: inc/custom-post.php:47 inc/custom-post.php:111
+#, php-format
+msgid "Edit %s"
+msgstr "Edit %s"
+
+#: inc/custom-post.php:48
+#, php-format
+msgid "New %s"
+msgstr "New %s"
+
+#: inc/custom-post.php:49 inc/custom-post.php:50 inc/custom-post.php:112
+#, php-format
+msgid "View %s"
+msgstr "View %s"
+
+#: inc/custom-post.php:51 inc/custom-post.php:106
+#, php-format
+msgid "Search %s"
+msgstr "Search %s"
+
+#: inc/custom-post.php:52
+#, php-format
+msgid "%s not found"
+msgstr "%s not found"
+
+#: inc/custom-post.php:53
+#, php-format
+msgid "%s found in Trash"
+msgstr "%s found in Trash"
+
+#: inc/custom-post.php:55 inc/custom-post.php:108
+#, php-format
+msgid "All %s"
+msgstr "All %s"
+
+#: inc/custom-post.php:56
+#, php-format
+msgid "%s Archives"
+msgstr "%s Archives"
+
+#: inc/custom-post.php:57
+#, php-format
+msgid "%s Attributes"
+msgstr "%s Attributes"
+
+#: inc/custom-post.php:58
+#, php-format
+msgid "Insert into %s"
+msgstr "Insert into %s"
+
+#: inc/custom-post.php:59
+#, php-format
+msgid "Uploaded to this %s"
+msgstr "Uploaded to this %s"
+
+#: inc/custom-post.php:60
+#, php-format
+msgid "Filter %s list"
+msgstr "Filter %s list"
+
+#: inc/custom-post.php:61 inc/custom-post.php:121
+#, php-format
+msgid "%s list navigation"
+msgstr "%s list navigation"
+
+#: inc/custom-post.php:62 inc/custom-post.php:122
+#, php-format
+msgid "%s list"
+msgstr "%s list"
+
+#: inc/custom-post.php:63
+#, php-format
+msgid "%s published."
+msgstr "%s published."
+
+#: inc/custom-post.php:64
+#, php-format
+msgid "%s published privately."
+msgstr "%s published privately."
+
+#: inc/custom-post.php:65
+#, php-format
+msgid "%s reverted to draft."
+msgstr "%s reverted to draft."
+
+#: inc/custom-post.php:66
+#, php-format
+msgid "%s scheduled."
+msgstr "%s scheduled."
+
+#: inc/custom-post.php:67
+#, php-format
+msgid "%s  updated."
+msgstr "%s  updated."
+
+#: inc/custom-post.php:107
+#, php-format
+msgid "Popular %s"
+msgstr "Popular %s"
+
+#: inc/custom-post.php:109
+#, php-format
+msgid "Parent %s"
+msgstr "Parent %s"
+
+#: inc/custom-post.php:110
+#, php-format
+msgid "Parent %s:"
+msgstr "Parent %s:"
+
+#: inc/custom-post.php:113
+#, php-format
+msgid "Update %s"
+msgstr "Update %s"
+
+#: inc/custom-post.php:115
+#, php-format
+msgid "New %s Name"
+msgstr "New %s Name"
+
+#: inc/custom-post.php:116
+#, php-format
+msgid "Separate %s with commas"
+msgstr "Separate %s with commas"
+
+#: inc/custom-post.php:117
+#, php-format
+msgid "Add or remove %s"
+msgstr "Add or remove %s"
+
+#: inc/custom-post.php:118
+#, php-format
+msgid "Choose from the most used %s"
+msgstr "Choose from the most used %s"
+
+#: inc/custom-post.php:119
+#, php-format
+msgid "No %s found."
+msgstr "No %s found."
+
+#: inc/custom-post.php:120
+#, php-format
+msgid "No %s"
+msgstr "No %s"
+
+#: inc/custom-post.php:123
+#, php-format
+msgid "&larr; Back to %s"
+msgstr "&larr; Back to %s"
+
+#: template/single-bdevs-cases.php:85
+msgid "Previous"
+msgstr "Previous"
+
+#: template/single-bdevs-cases.php:98
+msgid "Next"
+msgstr "Next"
+
+#: widgets/bdevs-contact-info-widget.php:21
+msgid "Zibber Contact Info"
+msgstr "Zibber Contact Info"
+
+#: widgets/bdevs-contact-info-widget.php:22
+msgid "Zibber Contact Info Widget"
+msgstr "Zibber Contact Info Widget"
+
+#: widgets/bdevs-contact-info-widget.php:86 widgets/bdevs-info-widget.php:103
+#: widgets/bdevs-services-form-widget.php:63
+#: widgets/bdevs-subscriber-widget.php:106
+msgid "Title:"
+msgstr "Title:"
+
+#: widgets/bdevs-contact-info-widget.php:92
+msgid "Address:"
+msgstr "Address:"
+
+#: widgets/bdevs-contact-info-widget.php:97
+msgid "Email Address:"
+msgstr "Email Address:"
+
+#: widgets/bdevs-contact-info-widget.php:102
+msgid "Phone Number:"
+msgstr "Phone Number:"
+
+#: widgets/bdevs-contact-info-widget.php:107
+msgid "Website Url:"
+msgstr "Website Url:"
+
+#: widgets/bdevs-info-widget.php:21
+msgid "Zibber Info"
+msgstr "Zibber Info"
+
+#: widgets/bdevs-info-widget.php:22
+msgid "Zibber Info Widget"
+msgstr "Zibber Info Widget"
+
+#: widgets/bdevs-info-widget.php:107
+msgid "Short Description:"
+msgstr "Short Description:"
+
+#: widgets/bdevs-info-widget.php:121 widgets/bdevs-subscriber-widget.php:126
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: widgets/bdevs-info-widget.php:127 widgets/bdevs-subscriber-widget.php:132
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: widgets/bdevs-info-widget.php:132 widgets/bdevs-subscriber-widget.php:137
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: widgets/bdevs-info-widget.php:136 widgets/bdevs-subscriber-widget.php:141
+msgid "Youtube:"
+msgstr "Youtube:"
+
+#: widgets/bdevs-info-widget.php:141 widgets/bdevs-subscriber-widget.php:146
+msgid "linkedin:"
+msgstr "linkedin:"
+
+#: widgets/bdevs-latest-posts-footer.php:59
+#: widgets/bdevs-latest-posts-sidebar.php:62 widgets/bdevs-service-list.php:58
+msgid "3"
+msgstr "3"
+
+#: widgets/bdevs-latest-posts-footer.php:60
+#: widgets/bdevs-latest-posts-sidebar.php:63 widgets/bdevs-service-list.php:59
+msgid "DESC"
+msgstr "DESC"
+
+#: widgets/bdevs-latest-posts-footer.php:61
+#: widgets/bdevs-latest-posts-sidebar.php:64
+msgid "style_1"
+msgstr "style_1"
+
+#: widgets/bdevs-services-form-widget.php:21
+msgid "Zibber Services Form"
+msgstr "Zibber Services Form"
+
+#: widgets/bdevs-services-form-widget.php:22
+msgid "Zibber Services Form Widget"
+msgstr "Zibber Services Form Widget"
+
+#: widgets/bdevs-services-form-widget.php:68
+#: widgets/bdevs-subscriber-widget.php:111
+msgid "Mailchimp Shortcode:"
+msgstr "Mailchimp Shortcode:"
+
+#: widgets/bdevs-subscriber-widget.php:21
+msgid "Markite Subscriber"
+msgstr "Markite Subscriber"
+
+#: widgets/bdevs-subscriber-widget.php:22
+msgid "Markite Subscriber Widget"
+msgstr "Markite Subscriber Widget"
+
+#: widgets/bdevs-subscriber-widget.php:116
+msgid "Mailchimp text"
+msgstr "Mailchimp text"
+
+#: widgets/bdevs-subscriber-widget.php:121
+msgid "Social Title"
+msgstr "Social Title"
+
+#. Plugin Name of the plugin/theme
+msgid "Bdevs Toolkit"
+msgstr "Bdevs Toolkit"
+
+#. Plugin URI of the plugin/theme
+msgid "http://bdevs.net/"
+msgstr "http://bdevs.net/"
+
+#. Description of the plugin/theme
+msgid "Bdevs Toolkit Plugin"
+msgstr "Bdevs Toolkit Plugin"
+
+#. Author of the plugin/theme
+msgid "BDevs"
+msgstr "BDevs"
+
+#. Author URI of the plugin/theme
+msgid "http://bdevs.net"
+msgstr "http://bdevs.net"
